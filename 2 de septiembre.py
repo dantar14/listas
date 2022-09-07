@@ -48,4 +48,5 @@ def tabla(n:int, t:int, fmt:int):
        print(f"{t:^{fmt}}x{i:^{fmt}}={i*t:^{fmt}}")
 
 if __name__ == "__main__":
-      tablas(3,4,6)        
+      tablas(3,4,6)       
+               
